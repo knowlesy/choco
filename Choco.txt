@@ -5,4 +5,6 @@ choco install vscode
 choco install bginfo
 choco install sysinternals
 choco install treesizefree
+choco install putty
+choco install 7zip
 choco install chocolateygui 
