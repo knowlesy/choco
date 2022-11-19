@@ -1,0 +1,8 @@
+choco install notepadplusplus.install
+choco install git
+choco install firefox
+choco install vscode
+choco install bginfo
+choco install sysinternals
+choco install treesizefree
+choco install chocolateygui 
