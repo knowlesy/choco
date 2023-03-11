@@ -1,0 +1,32 @@
+choco feature enable -n=allowGlobalConfirmation
+choco install geforce-experience
+choco install googlechrome
+choco install brave
+choco install spotify
+choco install signal
+choco install discord
+choco install vscode
+choco install notepadplusplus.install
+choco install vlc
+choco install vscode-drawio
+choco install drawio
+choco install steam
+choco install microsoftazurestorageexplorer
+choco install nvidia-broadcast
+choco install azure-cli
+choco install putty
+choco install paint.net
+choco install winscp
+choco install 7zip
+choco install jabra-direct
+choco install powershell-core
+choco install veeam-endpoint-backup-free
+choco install pia
+choco install sysinternals
+choco install git
+choco install terraform
+choco install packer
+choco install unifying
+choco feature disable -n=allowGlobalConfirmation
+
+
