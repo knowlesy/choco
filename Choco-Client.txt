@@ -27,6 +27,7 @@ choco install git
 choco install terraform
 choco install packer
 choco install unifying
+choco install handbrake
 choco feature disable -n=allowGlobalConfirmation
 
 
