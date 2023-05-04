@@ -3,7 +3,7 @@ choco install geforce-experience
 choco install googlechrome
 choco install brave
 choco install spotify
-choco install signal
+choco install vmwareworkstation
 choco install discord
 choco install vscode
 choco install notepadplusplus.install
