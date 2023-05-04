@@ -12,21 +12,3 @@ Chocolatey is a software management solution
 
 
 
-## Commands
-
-Disable prompts globally
-
-    choco feature enable -n=allowGlobalConfirmation
-
-Bypass prompt single execution
-    
-    choco install XYZ -y
-
-Upgrade all packages
-
-    choco upgrade all -y 
-
-Choco Gui
-
-    choco install chocolateygui 
-
