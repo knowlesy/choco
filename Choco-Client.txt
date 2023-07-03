@@ -1,6 +1,8 @@
+choco feature enable -n=allowGlobalConfirmation
 choco install googlechrome
 choco install firefoxesr
 choco install brave
+choco install wsl2
 choco install vmwareworkstation
 choco install docker-desktop
 choco install git.install
@@ -37,3 +39,4 @@ choco install vlc
 choco install steam
 choco install handbrake
 choco install nvidia-broadcast
+choco feature disable -n=allowGlobalConfirmation
