@@ -26,6 +26,7 @@ choco install veeam-endpoint-backup-free
 choco install pia
 choco install sysinternals
 choco install unifying
+choco install nvidia-display-driver
 choco install geforce-experience
 choco install 7zip.install
 choco install notepadplusplus.install
