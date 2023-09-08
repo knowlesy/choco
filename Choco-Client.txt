@@ -1,7 +1,5 @@
 choco feature enable -n=allowGlobalConfirmation
 choco install googlechrome
-choco install firefoxesr
-choco install brave
 choco install wsl2
 choco install vmwareworkstation
 choco install docker-desktop
@@ -15,30 +13,14 @@ choco install drawio
 choco install vscode.install
 choco install vscode-drawio
 choco install vscode-ansible
-choco install googledrive
-choco install lastpass
 choco install microsoftazurestorageexplorer
 choco install azure-cli
 choco install putty
-choco install jabra-direct
 choco install powershell-core
-choco install veeam-endpoint-backup-free
-choco install pia
 choco install sysinternals
-choco install unifying
-choco install nvidia-display-driver
-choco install geforce-experience
 choco install 7zip.install
 choco install notepadplusplus.install
 choco install winscp.install
-choco install paint.net
 choco install microsoft-windows-terminal
 choco install sql-server-management-studio
-choco install spotify
-choco install discord
-choco install vlc
-choco install steam
-choco install handbrake
-choco install nvidia-broadcast
-choco install obs-studio.install
 choco feature disable -n=allowGlobalConfirmation
