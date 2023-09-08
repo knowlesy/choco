@@ -40,4 +40,5 @@ choco install vlc
 choco install steam
 choco install handbrake
 choco install nvidia-broadcast
+choco install obs-studio.install
 choco feature disable -n=allowGlobalConfirmation
